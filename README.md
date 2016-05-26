@@ -1,7 +1,7 @@
 # Twitter user/Directed graph analysis using pageRank algorithm based on Hadoop
 Using pageRank algorithm to analyze twitter user, implementation based on hadoop streaming
-The whole workflow is very similar to http://salsahpc.indiana.edu/csci-b649-spring-2014/projects/project3.html
-
+The whole workflow is very similar to http://salsahpc.indiana.edu/csci-b649-spring-2014/projects/project3.html. 
+The original dataset is at http://socialcomputing.asu.edu/datasets/Twitter
 **********************************************
 # Raw data format
 1 2
