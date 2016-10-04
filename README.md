@@ -32,3 +32,6 @@ If the output value is smaller than threshold, goes to step 5.
 
 User/Node 4 ranks 1, with the value of 0.192<br>
 User/Node 3 ranks 2, with the value of 0.186...
+
+# TODO
+Add a shell script to run everything, I know I'm a slacker so I'll leave it for now ╮(╯_╰)╭
